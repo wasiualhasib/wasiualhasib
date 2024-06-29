@@ -1,6 +1,8 @@
+
+![I am Senior DevOps Engineer](https://media.licdn.com/dms/image/D5616AQHWOQijZFUzpA/profile-displaybackgroundimage-shrink_350_1400/0/1689536496253?e=1724889600&v=beta&t=1FzAKT7TFN9pImHA4UrTFBVYv0fRbvHRfJIX9OVPHvA)
+
 ### Hi there 👋, my name is Sheikh Wasiu Al Hasib
 #### I am Senior DevOps Engineer
-![I am Senior DevOps Engineer](https://media.licdn.com/dms/image/D5616AQHWOQijZFUzpA/profile-displaybackgroundimage-shrink_350_1400/0/1689536496253?e=1724889600&v=beta&t=1FzAKT7TFN9pImHA4UrTFBVYv0fRbvHRfJIX9OVPHvA)
 
 I am Hasib, I love to learn and do new things. I am good at data analysis, system bug fixing, and scripting(bash/python). 
 

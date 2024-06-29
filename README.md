@@ -2,7 +2,7 @@
 ![I am Senior DevOps Engineer](https://media.licdn.com/dms/image/D5616AQHWOQijZFUzpA/profile-displaybackgroundimage-shrink_350_1400/0/1689536496253?e=1724889600&v=beta&t=1FzAKT7TFN9pImHA4UrTFBVYv0fRbvHRfJIX9OVPHvA)
 
 ### Hi there 👋, my name is Sheikh Wasiu Al Hasib
-#### I am Senior DevOps Engineer
+#### I am a Senior DevOps Engineer
 
 I am Hasib, I love to learn and do new things. I am good at data analysis, system bug fixing, and scripting(bash/python). 
 
@@ -24,5 +24,5 @@ Skills: PostgreSQL / MySQL / MSSQL / MongoDB /Ansible/ Bash/Python/ Grafana / Za
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wasiualhasib&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=wasiualhasib)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=wasiualhasib)
 
